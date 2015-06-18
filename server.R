@@ -1,6 +1,6 @@
 library(shiny)
 library(forecast)
-library(ffeb)
+
 
 load("./data/rcl_estados.rda")
 
